@@ -29,4 +29,5 @@ setup(
     author = "Marcin Mincer",
     author_email = "marcin@bladepolska.com",
     url = "http://www.bladepolska.com",
+    requires = ['clint']
     )
